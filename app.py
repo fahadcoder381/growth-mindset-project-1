@@ -3,10 +3,7 @@ import pandas as pd
 import os
 from io import BytesIO
 
-st.button("Click me ")
-
-
-st.set_page_config(Page_title== "Data sweeper",layout='wide')
+st.set_page_config(Page_title= "Data sweeper",layout='wide')
 
  #
 st.markdown(
